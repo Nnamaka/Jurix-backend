@@ -1,3 +1,6 @@
-test.py
+iist.py
 jurix/
 .env
+__pycache__
+constitution.pdf
+docs/
