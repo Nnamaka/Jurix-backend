@@ -6,4 +6,4 @@ beautifulsoup4==4.12.2
 pypdf==3.16.1
 panel
 openai==0.28.0
-python-dotenv==1.0.0
+python-dotenv<=1.0.0
