@@ -7,3 +7,5 @@ pypdf==3.16.1
 panel
 openai==0.28.0
 python-dotenv<=1.0.0
+Flask<=2.3.3
+Flask-Cors==4.0.0
